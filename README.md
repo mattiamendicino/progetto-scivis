@@ -1,5 +1,4 @@
 # Progetto Visualizzazione Scientifica
 
 ## Collaboratori:
-Mattia Mendicino 
-Alessandro Belfiore
+Mattia Mendicino, Alessandro Belfiore
